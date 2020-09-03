@@ -2,14 +2,15 @@ UW Coding Bootcamp - Homework Assignment 1
 
 Code-Refactor
 
-Worked on maximizing efficiency in the code.
 Optimizing for search engines.
+Worked on maximizing efficiency in the code.
 
 
 Update Notes - 
 
+Code -
 
-HTML
+    HTML
     - Added title "Horiseon- Discover your online potential"
     - Added ID for "Search Engine Optimization" and corrected href so it will bring you to the correct section on the page. 
     - Improved indentation and spacing for easier navigation
@@ -21,9 +22,8 @@ HTML
     - Created ID tags for easier identification
     - Simplified Class structure within Content and Benefits div 
 
-CSS
+    CSS
     - Added notes for easier breakdown 
     - Removed <p> {font-size: 16px;" --> default setting.  
     - Removed "list-style-type: none"
-    - Created classes with identical properties and combined redundant into single lines.
-    - Removed redundant classes attached to attribute/values.
+    - Created classes with identical properties and combined redundant elements into single lines.
